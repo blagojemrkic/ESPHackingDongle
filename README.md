@@ -3,12 +3,12 @@ ESP32 S2 Haching dongle with HID funtionality
 
 ## Schematic 
 
-![](./assets/schematic.pdf)
+![](./assets/output.svg)
 
 ## 3D View 
 
-![alt text](./assets/ESPDongle1.jpg "Title")
-![alt text](./assets/ESPDongle2.jpg "Title")
+![esp32_1](./assets/ESPDongle1.jpg "ESP32 S2 Hacking Dongle front view")
+![esp32_2](./assets/ESPDongle2.jpg "ESP32 S2 Hacking Dongle back view")
 
 ## ToDo
 
